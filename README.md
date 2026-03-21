@@ -1,2 +1,3 @@
-# ultra-health-tracker-6th0
+# Ultra Health Tracker 6Th0
+
 A health and fitness tracking system for modern development workflows.
